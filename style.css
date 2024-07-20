@@ -43,15 +43,18 @@
     background-color: #2E4053;
     padding: 20px;
 }
-.otros
-{
-    background-color: #3498DB;
+.cajaLenguajes{
+    background-image: radial-gradient(circle at 93.3% -1.6%, #d147f0 0, #ac39f2 16.67%, #7c2ff3 33.33%, #1d29f3 50%, #002af3 66.67%, #002ef3 83.33%, #0031f2 100%);
+    padding: 30px;
     border-radius: 10px;
-    padding: 20px;
+}
+.cajaLenguajes p{
+    padding: 10px;
+    color: white;
 }
 .otros a {
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 18px;
 }
 .box-footer{
