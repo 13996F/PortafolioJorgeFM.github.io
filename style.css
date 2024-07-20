@@ -58,9 +58,10 @@
     font-size: 18px;
 }
 .box-footer{
-    background-color: gray;
+    background-color:black;
     padding: 40px;
     margin-top: 10px;
+    color: white;
 }
 @media (max-width: 600px)
 {
